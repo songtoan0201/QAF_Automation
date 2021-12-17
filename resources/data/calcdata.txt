@@ -1,0 +1,4 @@
+val1, val2, operation, expectedResult
+3,9,plus,12
+5,6,plus,11
+7,3,minus,4
